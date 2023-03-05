@@ -1,0 +1,36 @@
+
+body {
+    background-color:lightblue;/*lightblue*/
+}
+
+h1 {
+    filter: drop-shadow(10px 10px 25px black);
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: gold;/*gold*/
+    background-color:teal;
+}
+
+
+/*
+body {
+    margin : 33px;
+    background-color: indianred (63,62,62);
+}
+
+h1 {
+    filter: drop-shadow(10px 10px 25px black);
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: gold;
+    background-color: teal;
+}
+
+div#fir_div{
+    float : left;
+    filter: brightness(10px 10px 25px green);
+    background-color: pink;
+    padding: 10px 100px 500px 100px;
+    margin: 10px 1px 100px 50px;
+    width: 50em;
+}*/
